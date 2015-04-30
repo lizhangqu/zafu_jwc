@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="jwc"></dbname>
+    <version value="1"></version>
+    <list>
+        
+        <mapping class="cn.edu.zafu.jwc.model.LinkNode"></mapping>
+        <mapping class="cn.edu.zafu.jwc.model.Course"></mapping>
+    </list>
+</litepal>
